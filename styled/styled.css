@@ -143,3 +143,7 @@ h1,h2,h3,h4,h5,h6{
     letter-spacing: 0.03em;
     color: #757575;
 }
+
+.footer-address__container>.el_e>.footer_link{
+    color: rgba(255, 255, 255, 0.6);
+}
